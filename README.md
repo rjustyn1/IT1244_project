@@ -20,6 +20,6 @@ The workflow is as follows:
 - Training and analysing the CNN-XGBoost model which consists of:
   - (Training) Creation of model and incorporation of Principal Component Analysis (PCA) into model as well as hyperparameter tuning
   - (Analysis) Plotting the performance graphs with various metrics used
-  - # Note : As this model depend heavily on XGBoost as the classifier, the convolution layers in the CNN solely works as a feature extractor, thus making analytics using GradCAM is not effective.
+  - Note : As this model depend heavily on XGBoost as the classifier, the convolution layers in the CNN solely works as a feature extractor, thus making analytics using GradCAM is not effective.
  
 
